@@ -1,3 +1,5 @@
+//Jump Game
+
 let nums = [2, 2, 1, 0, 4];
 var canJump = function (nums) {
   let goal = nums.length - 1;
